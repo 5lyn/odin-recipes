@@ -1,0 +1,33 @@
+div {
+  background: red;
+  color: white;
+  font-size: 18px;
+}
+
+#main-title {
+  background: orange;
+  color: white;
+}
+
+ul {
+  background: cyan;
+  color: teal;
+  border: black solid 5px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  background: black;
+  color: white;
+}
+
+h3 {
+  border: dotted black;
+  background: plum;
+}
+
+ol {
+  border: dashed red 5px;
+  background: greenyellow;
+  color: white;
+}
